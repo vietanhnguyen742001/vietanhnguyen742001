@@ -8,8 +8,6 @@
 ### 🤔 My activities <br/> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietanhnguyen742001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viet-anh-nguyen-379358255/) 
 
 # 💻 Tech Stack:
 📋 Languages<br/> 
