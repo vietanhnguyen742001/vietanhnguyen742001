@@ -46,6 +46,8 @@
 🤔 My activities <br/> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietanhnguyen742001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhnguyen742001&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 📫 Contact Me <br/> 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viet-anh-nguyen-379358255/) 
 
