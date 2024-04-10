@@ -5,7 +5,9 @@
 👨🏻‍💻 Studied Artificial Intelligence at the University FPT HCM, Viet Nam<br/>
 🖥️ I am interested in the following topics: Deep Learning in NLP(LLM) and Computer Vision (Segmentation) <br/>
 💭 Currently learning about Data analytics, Power BI, Bigdata!<br/>
+### 🤔 My activities <br/> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietanhnguyen742001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viet-anh-nguyen-379358255/) 
 
@@ -43,9 +45,7 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <!-- Github stats from https: //github.com/anuraghazra/github-redme-stats -->
-🤔 My activities <br/> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietanhnguyen742001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhnguyen742001&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 📫 Contact Me <br/> 
 
